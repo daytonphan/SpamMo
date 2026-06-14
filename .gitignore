@@ -27,6 +27,3 @@ models/*.h5
 .DS_Store
 Thumbs.db
 
-# Results (optional — remove if you want to commit figures)
-results/figures/*.png
-results/figures/*.svg
